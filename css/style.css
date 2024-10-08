@@ -10,8 +10,18 @@ body {
 h1 {
   font-size: 2rem;
   font-weight: 900;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 20px;
+  text-shadow: 3px 3px rgb(182, 180, 180);
 }
 p {
   font-size: 1.5rem;
-  color: cornsilk;
+  color: rgb(241, 18, 193);
+}
+.section {
+  margin: auto;
+  padding: 20px;
+  width: 60%;
+  height: 30vh;
 }
