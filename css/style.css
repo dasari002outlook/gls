@@ -25,3 +25,12 @@ p {
   width: 60%;
   height: 30vh;
 }
+table {
+  margin: auto;
+  width: 60%;
+  height: 10vh;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
